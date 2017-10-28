@@ -1,10 +1,11 @@
 # AdminUtils
 
 ## Authors
-* >@tack!<
+* \>@tack!<
 
 ## Description
-A mod for Unreal Tournament (UT99) servers which provides useful functionality to server admins.
+A mod for Unreal Tournament (UT99) servers which provides useful functionality to server admins:
+* `mutate TriggerMover` -> Aim your crosshair at a mover and this command will trigger the mover
 
 ## Installation
 1. Copy the file(s) inside the `compiled` folder to your server's `UT/System/` directory
